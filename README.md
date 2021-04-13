@@ -9,7 +9,6 @@
 > 2. [Asynqmon](https://github.com/hibiken/asynq) is a real-time monitor and web admin for Asynq distributed task queue.
 > 3. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Asynq community.
 > 4. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
-> 5. If you want to say "thank you", donate some money via [@paypal.me/koddr](https://paypal.me/koddr?locale.x=en_EN).
 
 ## General Information
 
