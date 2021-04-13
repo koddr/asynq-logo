@@ -41,7 +41,7 @@ The meaning of the logo is quite simple: art should point to the functionality o
 
 ### Font
 
-- Lead text has been written in [Work Sans](https://fonts.google.com/specimen/Work+Sans) (by Stephenson Blake, Miller & Richard and Bauerschen Giesserei).
+Lead text has been written in [Work Sans](https://fonts.google.com/specimen/Work+Sans) (by Stephenson Blake, Miller & Richard and Bauerschen Giesserei).
 
 ### Color
 
