@@ -3,12 +3,12 @@
 [![logo version](https://img.shields.io/badge/version-2021.4-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
 [![guide complete](https://img.shields.io/badge/style_guide-done-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
 
-> ### TL;TR
->
-> 1. [Async](https://github.com/hibiken/asynq) is simple, reliable, and efficient distributed task queue in Go.
-> 2. [Asynqmon](https://github.com/hibiken/asynq) is a real-time monitor and web admin for Asynq distributed task queue.
-> 3. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Asynq community.
-> 4. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
+## TL;TR
+
+1. [Async](https://github.com/hibiken/asynq) is simple, reliable, and efficient distributed task queue in Go.
+2. [Asynqmon](https://github.com/hibiken/asynq) is a real-time monitor and web admin for Asynq distributed task queue.
+3. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Asynq community.
+4. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
 
 ## General Information
 
