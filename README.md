@@ -23,7 +23,7 @@ The meaning of the logo is quite simple: art should point to the functionality o
 
 ## Full logo 
 
-- Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Art%20%2B%20Logo))
+- Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Art%20%2B%20Logo)
 - Horizontal align:
 
 ![asynq_preview_full_logo_horizontal](https://user-images.githubusercontent.com/11155743/114535835-22838880-9c59-11eb-806e-6167291b1a23.jpg)
@@ -34,7 +34,7 @@ The meaning of the logo is quite simple: art should point to the functionality o
 
 ## Short logo
 
-- Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Only%20Art))
+- Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Only%20Art)
 
 ![asynq_preview_only_art](https://user-images.githubusercontent.com/11155743/114535899-33cc9500-9c59-11eb-93bf-719f5228f843.jpg)
 
