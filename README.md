@@ -45,11 +45,12 @@ The meaning of the logo is quite simple: art should point to the functionality o
 
 ### Color
 
-- Hard Green — HEX `#27AE60`, RGB `39, 174, 96`
-- Soft Green — HEX `#6FCF97`, RGB `111, 207, 151`
-- Hard Grey — HEX `#828282`, RGB `130, 130, 130`
-
-- Soft Grey — HEX `#F2F2F2`, RGB `242, 242, 242`
+| Name       | CSS       | RGB             | HSL           |
+| ---------- | --------- | --------------- | ------------- |
+| Hard Green | `#27AE60` | `39, 174, 96`   | `145, 63, 42` |
+| Soft Green | `#6FCF97` | `111, 207, 151` | `145, 50, 62` |
+| Hard Grey  | `#828282` | `130, 130, 130` | `0, 0, 51`    |
+| Soft Grey  | `#F2F2F2` | `242, 242, 242` | `0, 0, 95`    |
 
 ## Real life examples
 
