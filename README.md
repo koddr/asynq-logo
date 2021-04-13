@@ -20,7 +20,7 @@
 
 The meaning of the logo is quite simple: art should point to the functionality of the project, which is to send messages to the task queue. The logo emphasizes that all vectors (_messages_) converge at one point (_in the center_) of the composition and are closed into one big system — **Asynq**.
 
-## Full logo 
+## Full logo
 
 - Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Art%20%2B%20Logo)
 - Horizontal align:
