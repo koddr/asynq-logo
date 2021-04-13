@@ -5,32 +5,38 @@
 
 > ### TL;TR
 >
-> 1. [Async](https://github.com/hibiken/asynq) is
-> 2. [Asynqmon](https://github.com/hibiken/asynq) is
+> 1. [Async](https://github.com/hibiken/asynq) is simple, reliable, and efficient distributed task queue in Go.
+> 2. [Asynqmon](https://github.com/hibiken/asynq) is a real-time monitor and web admin for Asynq distributed task queue.
 > 3. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Asynq community.
 > 4. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
 > 5. If you want to say "thank you", donate some money via [@paypal.me/koddr](https://paypal.me/koddr?locale.x=en_EN).
 
 ## General Information
 
-- Additional information about design process, you can find at project [Figma board](https://www.figma.com/file/gBgFclGVh45YSQAteW7b88/Logo?node-id=5%3A10);
+- Initial issue and logo draft is [here](https://github.com/hibiken/asynq/issues/260);
+- Additional information about design process, you can find at project's [Figma board](https://www.figma.com/file/gBgFclGVh45YSQAteW7b88/Logo?node-id=5%3A10);
 - SVG files has been minified by [SVGO](https://github.com/svg/svgo) tool;
 
 ### History and main idea
 
-The meaning of the logo is quite simple:
+The meaning of the logo is quite simple: art should point to the functionality of the project, which is to send messages to the task queue. The logo emphasizes that all vectors (_messages_) converge at one point (_in the center_) of the composition and are closed into one big system — **Asynq**.
 
-## Full logo
+## Full logo 
 
-- Non-colored (download: [SVG](https://github.com/koddr/asynq-logo/)):
+- Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Art%20%2B%20Logo))
+- Horizontal align:
 
-- Colored (download: [SVG](https://github.com/koddr/asynq-logo/)):
+![asynq_preview_full_logo_horizontal](https://user-images.githubusercontent.com/11155743/114535835-22838880-9c59-11eb-806e-6167291b1a23.jpg)
+
+- Vertical align:
+
+![asynq_preview_full_logo_vertical](https://user-images.githubusercontent.com/11155743/114535872-2b745a00-9c59-11eb-8fcb-0f19dfa60f46.jpg)
 
 ## Short logo
 
-- Non-colored (download: [SVG](https://github.com/koddr/asynq-logo/)):
+- Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Only%20Art))
 
-- Colored (download: [SVG](https://github.com/koddr/asynq-logo/)):
+![asynq_preview_only_art](https://user-images.githubusercontent.com/11155743/114535899-33cc9500-9c59-11eb-93bf-719f5228f843.jpg)
 
 ## Style Guide
 
@@ -40,12 +46,15 @@ The meaning of the logo is quite simple:
 
 ### Color
 
-- Hard Green — HEX `#`, RGB ``
-- Soft Green — HEX `#`, RGB ``
-- Hard Grey — HEX `#`, RGB ``
-- Soft Grey — HEX `#`, RGB ``
+- Hard Green — HEX `#27AE60`, RGB `39, 174, 96`
+- Soft Green — HEX `#6FCF97`, RGB `111, 207, 151`
+- Hard Grey — HEX `#828282`, RGB `130, 130, 130`
+
+- Soft Grey — HEX `#F2F2F2`, RGB `242, 242, 242`
 
 ## Real life examples
+
+![asynq_preview_screenshot](https://user-images.githubusercontent.com/11155743/114533381-822c6480-9c56-11eb-89ad-cae60184d36b.jpg)
 
 ## Designer
 
