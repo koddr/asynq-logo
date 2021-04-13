@@ -61,7 +61,7 @@ The meaning of the logo is quite simple: art should point to the functionality o
 
 ## Project assistance
 
-If you want to say "thank you":
+If you want to say thank you:
 
 1. Add a GitHub Star to project.
 2. Twit about project [on your Twitter](https://twitter.com/intent/tweet?text=Official%20Asynq%20and%20Asynqmon%20logo%20%28with%20style%20guide%29%3A%20https%3A%2F%2Fgithub.com%2Fkoddr%2Fasynq-logo).
