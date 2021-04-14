@@ -8,7 +8,7 @@
 1. [Async](https://github.com/hibiken/asynq) is simple, reliable, and efficient distributed task queue in Go.
 2. [Asynqmon](https://github.com/hibiken/asynq) is a real-time monitor and web admin for Asynq distributed task queue.
 3. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Asynq community.
-4. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
+4. All images in this repository have [Creative Commons license](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
 
 ## General Information
 
@@ -71,4 +71,4 @@ If you want to say thank you:
 
 ## License
 
-All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
+All images in this repository have [Creative Commons license](https://creativecommons.org/licenses/by-sa/4.0/legalcode) (CC BY-SA 4.0).
