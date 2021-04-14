@@ -20,22 +20,28 @@
 
 The meaning of the logo is quite simple: art should point to the functionality of the project, which is to send messages to the task queue. The logo emphasizes that all vectors (_messages_) converge at one point (_in the center_) of the composition and are closed into one big system — **Asynq**.
 
-## Full logo
+## Full logos
 
 - Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Art%20%2B%20Logo)
 - Horizontal align:
 
+**Asynq**
+
 ![asynq_preview_full_logo_horizontal](https://user-images.githubusercontent.com/11155743/114535835-22838880-9c59-11eb-806e-6167291b1a23.jpg)
+
+**Asynqmon**
+
+![asynqmon_preview_full_logo_horizontal](https://user-images.githubusercontent.com/11155743/114740265-5ee6df80-9d52-11eb-8dab-eb6526dbf072.jpg)
 
 - Vertical align:
 
 ![asynq_preview_full_logo_vertical](https://user-images.githubusercontent.com/11155743/114535872-2b745a00-9c59-11eb-8fcb-0f19dfa60f46.jpg)
 
-## Short logo
+## Short logos
 
 - Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Only%20Art)
 
-![asynq_preview_only_art](https://user-images.githubusercontent.com/11155743/114535899-33cc9500-9c59-11eb-93bf-719f5228f843.jpg)
+![asynq_preview_only_art](https://user-images.githubusercontent.com/11155743/114742216-2f38d700-9d54-11eb-9639-4fb9a33c1bce.jpg)
 
 ## Style Guide
 
@@ -45,16 +51,23 @@ Lead text has been written in [Work Sans](https://fonts.google.com/specimen/Work
 
 ### Color
 
-| Name       | CSS       | RGB             | HSL           |
-| ---------- | --------- | --------------- | ------------- |
-| Hard Green | `#27AE60` | `39, 174, 96`   | `145, 63, 42` |
-| Soft Green | `#6FCF97` | `111, 207, 151` | `145, 50, 62` |
-| Hard Grey  | `#828282` | `130, 130, 130` | `0, 0, 51`    |
-| Soft Grey  | `#F2F2F2` | `242, 242, 242` | `0, 0, 95`    |
+| Name        | CSS       | RGB             | HSL           |
+| ----------- | --------- | --------------- | ------------- |
+| Hard Green  | `#27AE60` | `39, 174, 96`   | `145, 63, 42` |
+| Soft Green  | `#6FCF97` | `111, 207, 151` | `145, 50, 62` |
+| Hard Grey   | `#828282` | `130, 130, 130` | `0, 0, 51`    |
+| Soft Grey   | `#F2F2F2` | `242, 242, 242` | `0, 0, 95`    |
+| Strong Blue | `#2F80ED` | `47, 128, 237`  | `214, 84, 56` |
 
 ## Real life examples
 
+**Asynq**
+
 ![asynq_preview_screenshot](https://user-images.githubusercontent.com/11155743/114533381-822c6480-9c56-11eb-89ad-cae60184d36b.jpg)
+
+**Asynqmon**
+
+![asynqmon_preview_screenshot](https://user-images.githubusercontent.com/11155743/114740796-d9affa80-9d52-11eb-8a32-3132d9472de2.jpg)
 
 ## Designer
 
