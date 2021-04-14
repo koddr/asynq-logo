@@ -71,4 +71,4 @@ If you want to say thank you:
 
 ## License
 
-All images in this repository have [Creative Commons license](https://creativecommons.org/publicdomain/zero/1.0/) (CC0 1.0 Universal).
+All images in this repository have [Creative Commons license](https://creativecommons.org/publicdomain/zero/1.0/) (CC0 1.0 Universal) and was created by [Vic Shóstak](https://github.com/koddr).
