@@ -23,17 +23,15 @@ The meaning of the logo is quite simple: art should point to the functionality o
 ## Full logos
 
 - Download: [SVG](https://github.com/koddr/asynq-logo/tree/master/Art%20%2B%20Logo)
-- Horizontal align:
-
-**Asynq**
+- Horizontal align **Asynq**:
 
 ![asynq_preview_full_logo_horizontal](https://user-images.githubusercontent.com/11155743/114535835-22838880-9c59-11eb-806e-6167291b1a23.jpg)
 
-**Asynqmon**
+- Horizontal align **Asynqmon**:
 
 ![asynqmon_preview_full_logo_horizontal](https://user-images.githubusercontent.com/11155743/114740265-5ee6df80-9d52-11eb-8dab-eb6526dbf072.jpg)
 
-- Vertical align:
+- Vertical align **Asynq**:
 
 ![asynq_preview_full_logo_vertical](https://user-images.githubusercontent.com/11155743/114535872-2b745a00-9c59-11eb-8fcb-0f19dfa60f46.jpg)
 
