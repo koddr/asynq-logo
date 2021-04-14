@@ -1,4 +1,4 @@
-# Official [Asynq](https://github.com/hibiken/asynq) & [Asynqmon](https://github.com/hibiken/asynq) logo (with style guide)
+# Official [Asynq](https://github.com/hibiken/asynq) & [Asynqmon](https://github.com/hibiken/asynq) logos (with style guide)
 
 [![logo version](https://img.shields.io/badge/version-2021.4-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
 [![guide complete](https://img.shields.io/badge/style_guide-done-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
